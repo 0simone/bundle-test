@@ -2,8 +2,8 @@
 apiVersion: entando.org/v1
 kind: EntandoDeBundle
 metadata:
-  name: eng-346
-  namespace: keb
+  name: bundle-test-versions
+  namespace: qe-one
   labels:
     widget: 'true'
     pageTemplate: 'true'
