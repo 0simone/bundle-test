@@ -15,9 +15,11 @@ spec:
       with a config UI and a page template that uses that widget as defualt
       widget for a frame
     dist-tags:
-      latest: v0.0.1
+      latest: v0.0.3
     versions:
       - v0.0.1
+      - v0.0.2
+      - v0.0.3
   tags:
     - version: v0.0.1
       shasum: 1639fd2f6d93d0dafe8594c632542e579c42d059
