@@ -1,0 +1,18 @@
+code: eng-346_page-template
+description: Page template with default widget for ENG-346
+
+titles:
+  en: ENG-346 Page template
+  it: ENG-346 Page template
+
+configuration:
+  frames:
+    - pos: 0
+      description: Body
+      mainFrame: true
+      sketch: { x1: 0, y1: 0, x2: 11, y2: 0 }
+      defaultWidget:
+        code: my-widget
+        properties: null
+
+templatePath: page-template-freemarker.ftl

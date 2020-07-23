@@ -1,0 +1,12 @@
+code: ENG-346
+description: >-
+ A bundle to use for testing ENG-346 functionalities.
+ Contains 1 widget with a config UI and a page template
+ that uses that widget as defualt widget for a frame
+
+components:
+  widgets:
+    - widgets/my-widget.yaml
+
+  pageModels:
+    - page-templates/page-template.yaml

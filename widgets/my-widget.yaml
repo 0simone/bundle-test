@@ -1,0 +1,13 @@
+code: my-widget
+titles:
+  it: Il mio widget
+  en: My widget
+group: free
+customUiPath: my-widget.ftl
+configUi: 
+  customElement: "my-widget-config"
+  resources: 
+    - ENG-346/static/my-widget/config/js/runtime.js
+    - ENG-346/static/my-widget/config/js/vendor.js
+    - ENG-346/static/my-widget/config/js/main.js
+  
